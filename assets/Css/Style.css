@@ -1,0 +1,52 @@
+.contactame {
+    align-items: center;
+}
+
+i {
+    color: white;
+
+}
+
+.footer {
+    text-align: center;
+}
+
+h3 {
+    text-align: end;
+    font-size: 250%;
+}
+
+body {
+    background-color: #00235B
+}
+
+.foto {
+    border-style: inset;
+    border-radius: 50%;
+    border-color: white;
+
+    width: 100px;
+    height: 100px;
+}
+
+.container-fluid {
+    font-size: 30px;
+}
+
+.dropdown-menu {
+    font-size: 30px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.row-2 {
+    display: flex;
+    justify-content: space-around;
+
+
+    font-size: 30px;
+    text-align: justify;
+}
